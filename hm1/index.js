@@ -1,0 +1,16 @@
+alert('Welcom hm1');
+alert('У меня есть 4 переменные вот такого типа');
+var stringString = 'String';
+var namberNamber = 22;
+var bigIntNamber = 22222222222222222222n;
+var booleon  = true;
+alert('String');
+alert('Тип String');
+alert('22');
+alert('Тип Namber');
+alert('22222222222222222222');
+alert('Тип bigInt');
+alert('true');
+alert('Тип booleon');
+var answerUser = confirm('Понравилось?');
+console.log(answerUser);
