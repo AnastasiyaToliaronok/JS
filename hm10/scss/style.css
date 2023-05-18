@@ -1,0 +1,178 @@
+.Button-Delete, .Button-Sum, .Button-Subtraction, .Button-Multiply, .Button-Division, .Button-Equals, .Button-Number-9, .Button-Number-8, .Button-Number-7, .Button-Number-6, .Button-Number-5, .Button-Number-4, .Button-Number-3, .Button-Number-2, .Button-Number-1, .Button-Number-0 {
+  font-size: 30px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.Button-Number-0:hover {
+  font-size: 50px;
+}
+
+.Button-Number-1:hover {
+  font-size: 50px;
+}
+
+.Button-Number-2:hover {
+  font-size: 50px;
+}
+
+.Button-Number-3:hover {
+  font-size: 50px;
+}
+
+.Button-Number-4:hover {
+  font-size: 50px;
+}
+
+.Button-Number-5:hover {
+  font-size: 50px;
+}
+
+.Button-Number-6:hover {
+  font-size: 50px;
+}
+
+.Button-Number-7:hover {
+  font-size: 50px;
+}
+
+.Button-Number-8:hover {
+  font-size: 50px;
+}
+
+.Button-Number-9:hover {
+  font-size: 50px;
+}
+
+.Button-Equals:hover {
+  font-size: 50px;
+}
+
+.Button-Number-9:hover {
+  font-size: 50px;
+}
+
+.Button-Equals:hover {
+  font-size: 50px;
+}
+
+.Button-Division:hover {
+  font-size: 50px;
+}
+
+.Button-Multiply:hover {
+  font-size: 50px;
+}
+
+.Button-Subtraction:hover {
+  font-size: 50px;
+}
+
+.Button-Sum:hover {
+  font-size: 50px;
+}
+
+.Button-Delete:hover {
+  font-size: 50px;
+}
+
+.Calc {
+  width: 400px;
+  height: 500px;
+  background-color: rgb(169, 162, 162);
+  position: absolute;
+  left: 500px;
+  top: 100px;
+}
+
+.Calc-grid {
+  display: grid;
+  grid-template-rows: 70px 70px 70px 70px 70px 70px;
+  grid-template-columns: 70px 70px 70px 70px;
+  grid-gap: 5px;
+  width: 300px;
+  height: 450px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.Screen {
+  grid-area: 1/1/3/4;
+  text-align: end;
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.Button-Number-0 {
+  grid-area: 6/2/7/3;
+}
+
+.Button-Number-1 {
+  grid-area: 5/1/6/2;
+}
+
+.Button-Number-2 {
+  grid-area: 5/2/6/3;
+}
+
+.Button-Number-3 {
+  grid-area: 5/3/6/4;
+}
+
+.Button-Number-4 {
+  grid-area: 4/1/5/2;
+}
+
+.Button-Number-5 {
+  grid-area: 4/2/5/3;
+}
+
+.Button-Number-6 {
+  grid-area: 4/3/5/4;
+}
+
+.Button-Number-7 {
+  grid-area: 3/1/4/2;
+}
+
+.Button-Number-8 {
+  grid-area: 3/2/4/3;
+}
+
+.Button-Number-9 {
+  grid-area: 3/3/4/4;
+}
+
+.Button-Equals {
+  grid-area: 6/4/7/5;
+  background-color: rgb(186, 75, 75);
+}
+
+.Button-Division {
+  grid-area: 5/4/6/5;
+  background-color: rgb(186, 75, 75);
+}
+
+.Button-Multiply {
+  grid-area: 4/4/5/5;
+  background-color: rgb(186, 75, 75);
+}
+
+.Button-Subtraction {
+  grid-area: 3/4/4/5;
+  background-color: rgb(186, 75, 75);
+}
+
+.Button-Sum {
+  grid-area: 2/4/3/5;
+  background-color: rgb(186, 75, 75);
+}
+
+.Button-Delete {
+  grid-area: 1/4/2/5;
+  background-color: rgb(186, 75, 75);
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
