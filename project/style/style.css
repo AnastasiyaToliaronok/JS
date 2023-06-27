@@ -1,0 +1,41 @@
+.background {
+    background-color: burlywood;
+}
+
+.header-text {
+    width: auto;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.div-main {
+    width: 600px;
+    height: auto;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+    background-color: white;
+}
+
+.quiz {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.quiz-list {
+    font-size: 17px;
+    text-align: left;
+}
+
+.quiz-submit {
+    text-align: center;
+    background-color: red;
+    width: 600px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+}
+
+/*# sourceMappingURL=style.css.map */
